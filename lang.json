@@ -1,0 +1,51 @@
+[
+    {
+        "name": "C++",
+        "frameworks": [
+            "STL",
+            "Boost"
+        ]
+    },
+    {
+        "name": "Python",
+        "frameworks": [
+            "Django"
+        ]
+    },
+    {
+        "name": "JavaScript",
+        "frameworks": [
+            "Angular"
+        ]
+    },
+    {
+        "name": "Java",
+        "frameworks": [
+            "Spring",
+            "Hibernate"
+        ]
+    },
+    {
+        "name": "C#",
+        "frameworks": [
+            ".NET"
+        ]
+    },
+    {
+        "name": "PHP",
+        "frameworks": [
+            "Laravel",
+            "Symphony"
+        ]
+    },
+    {
+        "name": "Ruby",
+        "frameworks": [
+            "Ruby on Rails"
+        ]
+    },
+    {
+        "name": "Go",
+        "frameworks": []
+    }
+]
