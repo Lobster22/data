@@ -4,48 +4,122 @@
         "frameworks": [
             "STL",
             "Boost"
-        ]
+        ],
+        "code": "cout << \"Hello, World!\";"
     },
     {
         "name": "Python",
         "frameworks": [
             "Django"
-        ]
+        ],
+        "code": "print('Hello, World!')"
     },
     {
         "name": "JavaScript",
         "frameworks": [
             "Angular"
-        ]
+        ],
+        "code": "console.log('Hello, World!');"
     },
     {
         "name": "Java",
         "frameworks": [
             "Spring",
             "Hibernate"
-        ]
+        ],
+        "code": "System.out.println(\"Hello, World\");"
     },
     {
         "name": "C#",
         "frameworks": [
             ".NET"
-        ]
+        ],
+        "code": "Console.WriteLine(\"Hello, world!\");"
     },
     {
         "name": "PHP",
         "frameworks": [
             "Laravel",
             "Symphony"
-        ]
+        ],
+        "code": "echo \"Hello World!\";"
     },
     {
         "name": "Ruby",
         "frameworks": [
             "Ruby on Rails"
-        ]
+        ],
+        "code": "puts 'Hello, world!'"
     },
     {
         "name": "Go",
+        "frameworks": [
+            "Revel",
+            "Gin",
+            "Martini"
+        ],
+        "code": "fmt.Println(\"hello world\")"
+    },
+    {
+        "name": "C",
+        "frameworks": [
+            "no"
+        ],
+        "code": "printf(\"Hello, World!\");"
+    },
+    {
+        "name": "SQL",
+        "frameworks": [],
+        "code": "dbms_output.put_line (‘Hello, World!');"
+    },
+    {
+        "name": "Shell",
+        "frameworks": [
+            "Bashinator"
+        ],
+        "code": "echo Hello, world!"
+    },
+    {
+        "name": "Elixir",
+        "frameworks": [
+            "Phoenix"
+        ],
+        "code": "IO.puts \"Hello world!\""
+    },
+    {
+        "name": "Objective-C",
+        "frameworks": []
+    },
+    {
+        "name": "Swift",
+        "frameworks": []
+    },
+    {
+        "name": "Kotlin",
+        "frameworks": []
+    },
+    {
+        "name": "Basic",
+        "frameworks": []
+    },
+    {
+        "name": "Pascal",
+        "frameworks": []
+    },
+    {
+        "name": "Perl",
+        "frameworks": []
+    },
+    {
+        "name": "MATLAB",
+        "frameworks": []
+    },
+    {
+        "name": "Scala",
+        "frameworks": []
+    },
+    {
+        "name": "Assembly",
         "frameworks": []
     }
 ]
