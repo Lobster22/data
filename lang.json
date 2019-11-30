@@ -88,34 +88,42 @@
     },
     {
         "name": "Objective-C",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "Swift",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "Kotlin",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "Basic",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "Pascal",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "Perl",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "MATLAB",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     },
     {
         "name": "Scala",
-        "frameworks": []
+        "frameworks": [],
+        "code": "lol"
     }
 ]
