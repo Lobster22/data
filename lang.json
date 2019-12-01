@@ -10,14 +10,18 @@
     {
         "name": "Python",
         "frameworks": [
-            "Django"
+            "Django",
+            "Bottle",
+            "Flask"
         ],
         "code": "print('Hello, World!')"
     },
     {
         "name": "JavaScript",
         "frameworks": [
-            "Angular"
+            "Angular",
+            "Vue.js",
+            "Ember.js"
         ],
         "code": "console.log('Hello, World!');"
     },
@@ -69,7 +73,7 @@
     },
     {
         "name": "SQL",
-        "frameworks": [],
+        "frameworks": ["tSQLt"],
         "code": "dbms_output.put_line (‘Hello, World!');"
     },
     {
@@ -88,42 +92,42 @@
     },
     {
         "name": "Objective-C",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["no"],
+        "code": "NSLog(@\"Hello, World!\");"
     },
     {
         "name": "Swift",
         "frameworks": [],
-        "code": "lol"
+        "code": "printf(\"Hello, World!\");"
     },
     {
         "name": "Kotlin",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["kotlinx.coroutines", "Ktor"],
+        "code": "println(\"Hello, World!\")"
     },
     {
         "name": "Basic",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["no"],
+        "code": "PRINT \"Hello, World!\""
     },
     {
         "name": "Pascal",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["Brook for free Pascal"],
+        "code": "Write('Hello, World!')"
     },
     {
         "name": "Perl",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["Catalyst", "Mojolicious", "Dancer"],
+        "code": "print \"Hello, World!\""
     },
     {
         "name": "MATLAB",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["Simulink"],
+        "code": "disp(\"Hello, World!\""
     },
     {
         "name": "Scala",
-        "frameworks": [],
-        "code": "lol"
+        "frameworks": ["Play Framework", "Scalatra", "Lift"],
+        "code": "println(\"Hello, World!\")"
     }
 ]
